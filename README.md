@@ -62,4 +62,6 @@ Output: true
 Explanation: [1,2,3] is the original sorted array.
 You can rotate the array by x = 0 positions (i.e. no rotation) to make nums.
 
+ ![image](https://user-images.githubusercontent.com/106695664/199315836-62fb96ad-fb3a-46d7-822c-42209eda8fdd.png)
+
  
